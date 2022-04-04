@@ -15,9 +15,9 @@ import java.util.List;
 public class LoginServlet extends HttpServlet {
     private String message;
 
-    public void init() {
-        message = "Hello World!";
-    }
+        public void init() {
+            message = "Hello World!";
+        }
 
 
     public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {

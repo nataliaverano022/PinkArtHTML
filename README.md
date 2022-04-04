@@ -1,5 +1,5 @@
-# PinkArtHTML
+# Taller3
 
-Elaborado por: Natalia Ardila Verano y Laura Reyes Aguirre
+Elaborado por: Natalia Ardila Verano, Laura Reyes Aguirre y David Moya Aldana
 
-Video de youtube: https://youtu.be/RtM9DsDlKaU
+Video de youtube: 
